@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahetsiedhai&label=Profile%20views&color=0e75b6&style=flat" alt="mahetsiedhai" /> </p>
 
-🎓 Estudiante de Actuaría en [Nombre de la Universidad] con una pasión por la Ciencia de Datos y el Machine Learning.
+📊 My focus is on applying advanced statistical techniques and machine learning algorithms to solve complex problems and extract valuable insights from data.
 
-📊 Me especializo en el análisis estadístico y la modelación predictiva. He trabajado en proyectos que involucran la limpieza de datos, análisis exploratorio y la implementación de modelos de machine learning.
+💻 My preferred programming languages are Python and R, and I have experience with libraries and tools such as NumPy, Pandas, Scikit-learn, TensorFlow, and Keras.
 
-💻 Mis lenguajes de programación preferidos son Python y R, y tengo experiencia con bibliotecas y herramientas como NumPy, Pandas, Scikit-learn, TensorFlow y Keras.
+🌟 I am always seeking new challenges and opportunities to apply my skills in real-world projects. I am enthusiastic about learning and collaborating on innovative initiatives.
 
-🌟 Estoy siempre en busca de nuevos desafíos y oportunidades para aplicar mis habilidades en proyectos del mundo real. Me entusiasma aprender y colaborar en iniciativas innovadoras.
+📫 You can contact me at [daniel.olvera.v1905@gmail.com] or visit my LinkedIn profile.
 
-📫 Puedes contactarme en [tu correo electrónico] o visitar mi [LinkedIn](tu enlace de LinkedIn).
-
-🚀 Actualmente, estoy trabajando en [describir brevemente un proyecto actual o interés específico en ML].
+🚀 Currently, I'm working on an end-to-end MLOps project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
