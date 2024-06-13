@@ -9,7 +9,7 @@
 
 🌟 I am always seeking new challenges and opportunities to apply my skills in real-world projects. I am enthusiastic about learning and collaborating on innovative initiatives.
 
-📫 You can contact me at [daniel.olvera.v1905@gmail.com] or visit my LinkedIn profile.
+📫 You can contact me at daniel.olvera.v1905@gmail.com or visit my LinkedIn profile.
 
 🚀 Currently, I'm working on an end-to-end MLOps project.
 
